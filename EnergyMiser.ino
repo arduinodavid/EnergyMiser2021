@@ -18,9 +18,10 @@
     110 - lists log files
     111 - beeps at 1 to go
     112 - adds email
+    113 - shows email address on start
 */
 
-int version = 112;
+int version = 113;
 
 #define david
 
@@ -288,28 +289,28 @@ void setup() {
   enddelay = 1;
 #endif
 
-  int eeLoc = EE_EMAIL;
-  for (int i = 0; i < 50; i++) {
-      emailTo[i] =  EEPROM.read(eeLoc);
-      eeLoc += 1;
-  }
-
-  emailTo[0] = 255;
-
-  for (int i = 0; i < 50; i++) {
-      if (emailTo[i] < 48 || emailTo[i] > 127) {
-          eeLoc = EE_EMAIL;
-
-          for (int j = 0; j < 50; j++) {
-              emailTo[j] = 0;
-              EEPROM.write(eeLoc, 0);
-              eeLoc += 1;
-          }
-          EEPROM.commit();
-
-          break;
+      int eeLoc = EE_EMAIL;
+      for (int i = 0; i < 50; i++) {
+          emailTo[i] =  EEPROM.read(eeLoc);
+          eeLoc += 1;
       }
-  }
+
+
+    if (emailTo[0] < 48 || emailTo[0] > 127) {
+        eeLoc = EE_EMAIL;
+
+        for (int j = 0; j < 50; j++) {
+            emailTo[j] = 0;
+            EEPROM.write(eeLoc, 0);
+            eeLoc += 1;
+        }
+        EEPROM.commit();
+
+    }
+    else {
+        sprintf(strMsg, "emailing to : %s", emailTo); Serial.println(strMsg);
+    }
+  
 
   beep(1, 1, 1);
 
