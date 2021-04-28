@@ -1,0 +1,298 @@
+started
+[14:50:06] Signal strength = 0
+[14:50:34] Requesting signal strength
+[14:50:39] Signal strength = 0
+[14:51:04] Requesting signal strength
+[14:51:10] Signal strength = 1
+[14:51:34] Requesting signal strength
+[14:51:38] Signal strength = 3
+[14:52:04] Requesting signal strength
+[14:52:04] Signal strength = 3
+[14:52:35] Requesting signal strength
+[14:52:39] Signal strength = 2
+[14:53:05] Requesting signal strength
+[14:53:10] Signal strength = 0
+[14:53:35] Requesting signal strength
+[14:53:35] Signal strength = 0
+[14:54:05] Requesting signal strength
+[14:54:05] Signal strength = 0
+[14:54:35] Requesting signal strength
+[14:54:42] Signal strength = 1
+[14:55:05] Requesting signal strength
+[14:55:12] Signal strength = 0
+[14:55:35] Requesting signal strength
+[14:55:39] Signal strength = 0
+[14:56:05] Requesting signal strength
+[14:56:08] Signal strength = 0
+[14:56:35] Requesting signal strength
+[14:56:35] Signal strength = 0
+[14:57:05] Requesting signal strength
+[14:57:05] Signal strength = 0
+[14:57:35] Requesting signal strength
+[14:57:35] Signal strength = 0
+[14:58:05] Requesting signal strength
+[14:58:13] Signal strength = 0
+[14:58:35] Requesting signal strength
+[14:58:39] Signal strength = 0
+[14:59:05] Requesting signal strength
+[14:59:11] Signal strength = 0
+[14:59:35] Requesting signal strength
+[14:59:37] Signal strength = 0
+[15:00:05] Requesting signal strength
+[15:00:10] Signal strength = 0
+[15:00:35] Requesting signal strength
+[15:00:40] Signal strength = 2
+[15:01:05] Requesting signal strength
+[15:01:05] Signal strength = 0
+[15:01:35] Requesting signal strength
+[15:01:36] Signal strength = 0
+[15:02:05] Requesting signal strength
+[15:02:05] Signal strength = 0
+[15:02:35] Requesting signal strength
+[15:02:43] Signal strength = 1
+[15:03:05] Requesting signal strength
+[15:03:09] Signal strength = 1
+[15:03:35] Requesting signal strength
+[15:03:40] Signal strength = 3
+[15:04:05] Requesting signal strength
+[15:04:12] Signal strength = 0
+[15:04:35] Requesting signal strength
+[15:04:42] Signal strength = 4
+[15:05:05] Requesting signal strength
+[15:05:12] Signal strength = 2
+[15:05:35] Requesting signal strength
+[15:05:42] Signal strength = 0
+[15:06:05] Requesting signal strength
+[15:06:13] Signal strength = 0
+[15:06:35] Requesting signal strength
+[15:06:39] Signal strength = 0
+[15:07:05] Requesting signal strength
+[15:07:09] Signal strength = 0
+[15:07:35] Requesting signal strength
+[15:07:39] Signal strength = 0
+[15:08:05] Requesting signal strength
+[15:08:05] Signal strength = 0
+[15:08:35] Requesting signal strength
+[15:08:35] Signal strength = 0
+[15:09:05] Requesting signal strength
+[15:09:05] Signal strength = 0
+[15:09:35] Requesting signal strength
+[15:09:35] Signal strength = 0
+[15:10:05] Requesting signal strength
+[15:10:05] Signal strength = 0
+[15:10:35] Requesting signal strength
+[15:10:43] Signal strength = 4
+[15:11:05] Requesting signal strength
+[15:11:08] Signal strength = 3
+[15:11:35] Requesting signal strength
+[15:11:39] Signal strength = 0
+[15:12:05] Requesting signal strength
+[15:12:07] Signal strength = 0
+[15:12:35] Requesting signal strength
+[15:12:40] Signal strength = 4
+[15:13:05] Requesting signal strength
+[15:13:10] Signal strength = 0
+[15:13:35] Requesting signal strength
+[15:13:41] Signal strength = 2
+[15:14:05] Requesting signal strength
+[15:14:12] Signal strength = 0
+[15:14:35] Requesting signal strength
+[15:14:37] Signal strength = 0
+[15:15:05] Requesting signal strength
+[15:15:08] Signal strength = 0
+[15:15:35] Requesting signal strength
+[15:15:35] Signal strength = 0
+[15:16:05] Requesting signal strength
+[15:16:05] Signal strength = 0
+[15:16:35] Requesting signal strength
+[15:16:35] Signal strength = 0
+[15:17:05] Requesting signal strength
+[15:17:05] Signal strength = 0
+[15:17:35] Requesting signal strength
+[15:17:35] Signal strength = 0
+[15:18:05] Requesting signal strength
+[15:18:05] Signal strength = 0
+[15:18:35] Requesting signal strength
+[15:18:35] Signal strength = 0
+[15:19:05] Requesting signal strength
+[15:19:09] Signal strength = 5
+[15:19:35] Requesting signal strength
+[15:19:39] Signal strength = 5
+[15:20:05] Requesting signal strength
+[15:20:13] Signal strength = 0
+[15:20:35] Requesting signal strength
+[15:20:40] Signal strength = 1
+[15:21:05] Requesting signal strength
+[15:21:10] Signal strength = 1
+[15:21:35] Requesting signal strength
+[15:21:36] Signal strength = 2
+[15:22:05] Requesting signal strength
+[15:22:10] Signal strength = 0
+[15:22:35] Requesting signal strength
+[15:22:41] Signal strength = 1
+[15:23:05] Requesting signal strength
+[15:23:11] Signal strength = 1
+[15:23:35] Requesting signal strength
+[15:23:42] Signal strength = 0
+[15:24:05] Requesting signal strength
+[15:24:05] Signal strength = 0
+[15:24:35] Requesting signal strength
+[15:24:35] Signal strength = 0
+[15:25:05] Requesting signal strength
+[15:25:05] Signal strength = 0
+[15:25:35] Requesting signal strength
+[15:25:39] Signal strength = 0
+[15:26:05] Requesting signal strength
+[15:26:07] Signal strength = 0
+[15:26:35] Requesting signal strength
+[15:26:35] Signal strength = 0
+[15:27:05] Requesting signal strength
+[15:27:05] Signal strength = 0
+[15:27:35] Requesting signal strength
+[15:27:42] Signal strength = 0
+[15:28:05] Requesting signal strength
+[15:28:13] Signal strength = 0
+[15:28:35] Requesting signal strength
+[15:28:39] Signal strength = 1
+[15:29:05] Requesting signal strength
+[15:29:13] Signal strength = 4
+[15:29:35] Requesting signal strength
+[15:29:43] Signal strength = 0
+[15:30:05] Requesting signal strength
+[15:30:10] Signal strength = 2
+[15:30:35] Requesting signal strength
+[15:30:40] Signal strength = 0
+[15:31:05] Requesting signal strength
+[15:31:10] Signal strength = 0
+[15:31:35] Requesting signal strength
+[15:31:36] Signal strength = 0
+[15:32:05] Requesting signal strength
+[15:32:13] Signal strength = 1
+[15:32:35] Requesting signal strength
+[15:32:35] Signal strength = 0
+[15:33:05] Requesting signal strength
+[15:33:08] Signal strength = 0
+[15:33:35] Requesting signal strength
+[15:33:35] Signal strength = 0
+[15:34:05] Requesting signal strength
+[15:34:11] Signal strength = 0
+[15:34:35] Requesting signal strength
+[15:34:41] Signal strength = 0
+[15:35:05] Requesting signal strength
+[15:35:05] Signal strength = 0
+[15:35:35] Requesting signal strength
+[15:35:40] Signal strength = 0
+[15:36:05] Requesting signal strength
+[15:36:05] Signal strength = 0
+[15:36:35] Requesting signal strength
+[15:36:35] Signal strength = 0
+[15:37:05] Requesting signal strength
+[15:37:12] Signal strength = 0
+[15:37:35] Requesting signal strength
+[15:37:35] Signal strength = 0
+[15:38:05] Requesting signal strength
+[15:38:10] Signal strength = 1
+[15:38:35] Requesting signal strength
+[15:38:43] Signal strength = 1
+[15:39:05] Requesting signal strength
+[15:39:10] Signal strength = 0
+[15:39:35] Requesting signal strength
+[15:39:40] Signal strength = 2
+[15:40:05] Requesting signal strength
+[15:40:10] Signal strength = 0
+[15:40:35] Requesting signal strength
+[15:40:40] Signal strength = 0
+[15:41:05] Requesting signal strength
+[15:41:06] Signal strength = 0
+[15:41:35] Requesting signal strength
+[15:41:43] Signal strength = 0
+[15:42:05] Requesting signal strength
+[15:42:09] Signal strength = 0
+[15:42:35] Requesting signal strength
+[15:42:39] Signal strength = 0
+[15:43:05] Requesting signal strength
+[15:43:05] Signal strength = 0
+[15:43:35] Requesting signal strength
+[15:43:35] Signal strength = 0
+[15:44:05] Requesting signal strength
+[15:44:10] Signal strength = 0
+[15:44:35] Requesting signal strength
+[15:44:40] Signal strength = 0
+[15:45:05] Requesting signal strength
+[15:45:05] Signal strength = 0
+[15:45:35] Requesting signal strength
+[15:45:35] Signal strength = 0
+[15:46:05] Requesting signal strength
+[15:46:05] Signal strength = 0
+[15:46:35] Requesting signal strength
+[15:46:35] Signal strength = 0
+[15:47:05] Requesting signal strength
+[15:47:09] Signal strength = 1
+[15:47:35] Requesting signal strength
+[15:47:43] Signal strength = 0
+[15:48:05] Requesting signal strength
+[15:48:13] Signal strength = 1
+[15:48:35] Requesting signal strength
+[15:48:40] Signal strength = 1
+[15:49:05] Requesting signal strength
+[15:49:10] Signal strength = 0
+[15:49:35] Requesting signal strength
+[15:49:40] Signal strength = 0
+[15:50:05] Requesting signal strength
+[15:50:05] Signal strength = 0
+[15:50:35] Requesting signal strength
+[15:50:35] Signal strength = 1
+[15:51:05] Requesting signal strength
+[15:51:10] Signal strength = 0
+[15:51:35] Requesting signal strength
+[15:51:40] Signal strength = 0
+[15:52:05] Requesting signal strength
+[15:52:05] Signal strength = 0
+[15:52:35] Requesting signal strength
+[15:52:35] Signal strength = 0
+[15:53:05] Requesting signal strength
+[15:53:05] Signal strength = 0
+[15:53:35] Requesting signal strength
+[15:53:35] Signal strength = 0
+[15:54:05] Requesting signal strength
+[15:54:05] Signal strength = 0
+[15:54:35] Requesting signal strength
+[15:54:35] Signal strength = 0
+[15:55:05] Requesting signal strength
+[15:55:05] Signal strength = 0
+[15:55:35] Requesting signal strength
+[15:55:35] Signal strength = 0
+[15:56:05] Requesting signal strength
+[15:56:09] Signal strength = 1
+[15:56:35] Requesting signal strength
+[15:56:40] Signal strength = 1
+[15:57:05] Requesting signal strength
+[15:57:12] Signal strength = 0
+[15:57:35] Requesting signal strength
+[15:57:37] Signal strength = 1
+[15:58:05] Requesting signal strength
+[15:58:10] Signal strength = 0
+[15:58:35] Requesting signal strength
+[15:58:36] Signal strength = 1
+[15:59:05] Requesting signal strength
+[15:59:06] Signal strength = 0
+[15:59:35] Requesting signal strength
+[15:59:39] Signal strength = 1
+[16:00:05] Requesting signal strength
+[16:00:09] Signal strength = 0
+[16:00:35] Requesting signal strength
+[16:00:40] Signal strength = 0
+[16:01:05] Requesting signal strength
+[16:01:05] Signal strength = 0
+[16:01:35] Requesting signal strength
+[16:01:39] Signal strength = 0
+[16:02:05] Requesting signal strength
+[16:02:05] Signal strength = 0
+[16:02:35] Requesting signal strength
+[16:02:35] Signal strength = 0
+[16:03:05] Requesting signal strength
+[16:03:05] Signal strength = 0
+[16:03:35] Requesting signal strength
+[16:03:35] Signal strength = 0
+[16:04:05] Requesting signal strength
+[16:04:06] Signal strength = 0

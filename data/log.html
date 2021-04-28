@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<title>Energy Miser</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+
+	<body>
+		<div class="topnav">
+			<h1>Energy Miser (v%version%)</h1>
+		</div>
+
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/chart">Chart</a></li>
+			<li><a href="/settings">Settings</a></li>
+			<li><a href="/log">Logs</a></li>
+			<li><a href="/upload">Uploader</a></li>
+		</ul>
+		
+		<h2>Log Files</h2>
+
+	<p>
+		<div style="font-family: 'Courier New', monospace;text-align: left; margin:auto;"> 
+		<span id="line"></span> 
+		</div>
+		</p>
+	</body>
+	
+	<script>
+		if (!!window.EventSource) {
+			var source = new EventSource('/events');
+		 
+			source.addEventListener('line', function(e) {
+				document.getElementById("line").innerHTML += e.data + '<br>';				
+				document.getElementById('line').scrollIntoView(false);
+			}, false);
+		}
+	</script>
+
+</html>
+
