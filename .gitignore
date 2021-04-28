@@ -332,3 +332,12 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+
+AH/
+__vm/
+PICs/
+Release/
+Old Source/
+Docs/
+DC/
+.vs/
